@@ -7,16 +7,16 @@ Activityname – the activity the subject performed.
 Dataset – “Train” or “Test” to distinguish the training dataset from the test dataset.
 
 ## Notes on variable names
-A “t” in front of the variable donates time
-An “f” in front of the variable donates frequency
-“acc” is data collected from a 3-axis raw signal accelerometer. 
-“gyro” is data collected from a gyroscopre
-The “x”, “y”, or “z” at the end of the variable name donates the axis.
-The are two types of signals for acceleration, “body” and “gravity”
-Body linear acceleration and angular velocity were derived in time to obtain Jerk signals and is donated by “jerk”
-The magnitude of these three-dimensional signals were calculated using the Euclidean norm and is donated by “mag”
-“mean” donates the mean value and “std” donates the standard deviation.
-The average of the signals in a signal window sample is donated by “angle”
+A “t” in front of the variable donates time  
+An “f” in front of the variable donates frequency  
+“acc” is data collected from a 3-axis raw signal accelerometer.   
+“gyro” is data collected from a gyroscopre  
+The “x”, “y”, or “z” at the end of the variable name donates the axis.  
+The are two types of signals for acceleration, “body” and “gravity”  
+Body linear acceleration and angular velocity were derived in time to obtain Jerk signals and is donated by “jerk”  
+The magnitude of these three-dimensional signals were calculated using the Euclidean norm and is donated by “mag”  
+“mean” donates the mean value and “std” donates the standard deviation.  
+The average of the signals in a signal window sample is donated by “angle”  
 
 ## Variable Names
 tbodyaccmeanx  
