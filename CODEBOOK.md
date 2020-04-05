@@ -4,7 +4,7 @@
 Dataset – “Train” or “Test” to distinguish the training dataset from the test dataset.  
 The following are the variables the data set is grouped by:  
 subject – the person the data is collected from, numbered 1-30.  
-Activityname – the activity the subject performed.  
+activityname – the activity the subject performed.  
 
 ## Notes on variable names
 A “t” in front of the variable donates time  
