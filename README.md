@@ -18,9 +18,9 @@ The data can be obtained from the follwoing website:
 
 ## Analysis steps
 ### 1. Merges the training and the test sets to create one data set.
-Read featureNames and Subjects
-Read X_train and label col headers
-Read y_train and label col header
+Read featureNames and Subjects  
+Read X_train and label col headers  
+Read y_train and label col header  
 Label activity names
 Read test subjects
 Read X_test and label col headers
