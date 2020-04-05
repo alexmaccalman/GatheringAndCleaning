@@ -21,23 +21,23 @@ The data can be obtained from the follwoing website:
 Read featureNames and Subjects  
 Read X_train and label col headers  
 Read y_train and label col header  
-Label activity names
-Read test subjects
-Read X_test and label col headers
-Read y_test and label col header
+Label activity names  
+Read test subjects  
+Read X_test and label col headers  
+Read y_test and label col header  
 ### 3, Use descriptive activity names to name the activities in the data set
-Label activity names
+Label activity names  
 ### 2. Extracts only the measurements on the mean and standard deviation for each measurement.
-Extract standard dev and mean columns
-Merge data with subjects and activity names
-Merge both train and test data
-Sort by subject then activity name
+Extract standard dev and mean columns  
+Merge data with subjects and activity names  
+Merge both train and test data  
+Sort by subject then activity name  
 ### 4. Appropriately labels the data set with descriptive variable names.
-Clean up column names
-Delete "-" and "()" and spaces and commas
-Convert to all lower case and trim whitespaces
-Assign names to table
+Clean up column names  
+Delete "-" and "()" and spaces and commas  
+Convert to all lower case and trim whitespaces  
+Assign names to table  
 ### 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-Group by subject and activity name
-Summarize groups by mean
-Write table without row name
+Group by subject and activity name  
+Summarize groups by mean  
+Write table without row name  
