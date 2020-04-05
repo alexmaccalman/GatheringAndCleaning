@@ -1,10 +1,10 @@
 # Code Book for Gathering and Cleaning Project
 
 ## Key Variables
+Dataset – “Train” or “Test” to distinguish the training dataset from the test dataset.  
 The following are the variables the data set is grouped by:  
 subject – the person the data is collected from, numbered 1-30.  
 Activityname – the activity the subject performed.  
-Dataset – “Train” or “Test” to distinguish the training dataset from the test dataset.  
 
 ## Notes on variable names
 A “t” in front of the variable donates time  
